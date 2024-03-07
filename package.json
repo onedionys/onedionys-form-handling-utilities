@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-form-handling-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys(Form Handling Utilities) - Functions to validate, submit, and manage forms in web applications.",
+  "main": "src/formHandlingUtils.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-form-handling-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "form-handling-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-form-handling-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-form-handling-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-data-storage": "^1.1.0",
+    "onedionys-debounce-throttle-functions": "^1.0.0",
+    "onedionys-dom-manipulation-helpers": "^1.1.0",
+    "onedionys-routing-library": "^1.0.0",
+    "onedionys-template-engine": "^1.0.0"
+  }
+}
