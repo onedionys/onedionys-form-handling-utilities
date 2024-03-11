@@ -52,6 +52,7 @@ For the validateURL() function:
 
 * v1.0.0 : 07 March 2024
 * v1.0.1 : 11 March 2024
+* v4.0.0 : 11 March 2024
 
 ## 🧑 Author
 
