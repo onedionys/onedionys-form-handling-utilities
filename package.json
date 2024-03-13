@@ -1,6 +1,6 @@
 {
   "name": "onedionys-form-handling-utilities",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys(Form Handling Utilities) - Functions to validate, submit, and manage forms in web applications.",
   "main": "src/formHandlingUtils.js",
   "directories": {
